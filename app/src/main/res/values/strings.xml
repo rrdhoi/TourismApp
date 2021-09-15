@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="popular">Popular</string>
+    <string name="trip_idea">Trip Idea</string>
+    <string name="hello">Hello</string>
+    <string name="what_are_you_looking_for">What are you looking for?</string>
+    <string name="dollar">$</string>
+    <string name="total_price">Total Price:</string>
+    <string name="arrowback">arrowBack</string>
+    <string name="book_now">Book Now</string>
+    <string name="imagetravel">imageTravel</string>
+    <string name="email">r.ridoi702@gmail.com</string>
+    <string name="muhammad_ridhoi">Muhammad Ridhoi</string>
+    <string name="universitas_hasanuddin">Universitas Hasanuddin</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
